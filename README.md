@@ -1,0 +1,2 @@
+# scm
+Single chip microcomputer
